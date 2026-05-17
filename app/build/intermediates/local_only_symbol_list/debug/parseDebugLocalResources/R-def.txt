@@ -1,0 +1,17 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+font dmsans_bold
+font dmsans_medium
+font dmsans_regular
+font exo2_bold
+font exo2_medium
+font exo2_regular
+font exo2_semibold
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.JalSanchayTracker
+xml backup_rules
+xml data_extraction_rules
